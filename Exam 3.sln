@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam 3", "Exam 3\Exam 3.csproj", "{5827C68D-55EC-4738-900B-991926C24966}"
+	ProjectSection(ProjectDependencies) = postProject
+		{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0} = {818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam 3.Entities", "Exam 3.Entities\Exam 3.Entities.csproj", "{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5827C68D-55EC-4738-900B-991926C24966}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5827C68D-55EC-4738-900B-991926C24966}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5827C68D-55EC-4738-900B-991926C24966}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5827C68D-55EC-4738-900B-991926C24966}.Release|Any CPU.Build.0 = Release|Any CPU
+		{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{818A58BA-B80A-4CE3-9DD8-D054CD03CBC0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F05E21F-5E02-49B2-A1A0-68028B76111E}
+	EndGlobalSection
+EndGlobal
